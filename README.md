@@ -1,7 +1,6 @@
 # Mahtab Hossain
 
-Cyber security student at Deakin University, Melbourne. I'm aiming for a SOC role first, with offensive security as the long game: penetration testing and bug bounties.
-
+Cyber security student at Deakin University, Melbourne.
 Before Deakin I was writing Python, C/C++ and Flutter, and doing motion graphics in After Effects. I've shipped two Flutter apps.
 
 ## Right now
@@ -17,12 +16,12 @@ Kali Linux, Metasploitable, Ubuntu and Windows 7 in VirtualBox. Small, but it's 
 ## Projects
 
 - **Terminal Quest**: turn-based RPG in C++ with SplashKit.
-- **Desk Productivity and Comfort Station**: Arduino build that reports to Linux over serial. The first LCD was defective, and the replacement only worked once I worked out the I2C bus needed pull-up resistors. Non-blocking sketch, timed with `millis()`.
+- **Desk Productivity and Comfort Station**: Arduino build that reports to Linux over serial.
 - **Liedle**: Wordle, except the game is allowed to lie to you. Python.
 
 ## Tools
 
-Python · C/C++ · C# · Dart/Flutter · Firebase · Linux · Kali · Arduino · After Effects
+Python · C/C++ · C# · Dart/Flutter · Firebase · Linux · Kali · Arduino · After Effects · Illustrator
 
 ## Outside the terminal
 
